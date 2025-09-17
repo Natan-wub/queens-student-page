@@ -29,4 +29,5 @@ assignees: ''
 
 ### 7) Concrete Suggestion (include code if helpful)
 - Include another image of a project or an award to make you seem more professional.
+
 **Summary** The biggest win has to be the contact info so it is very easy to contact you and verify that you are a real person. A quick fix for the image can be done, that can't be your best photo. A nice to have would some projects or other cool things you've done to learn more about your skill set.
